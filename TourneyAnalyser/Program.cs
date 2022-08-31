@@ -79,6 +79,12 @@ namespace TourneyAnalyser
             }
 
             // Analyse card counts in decks
+            Dictionary<string, double> winrates = new Dictionary<string, double>();
+            foreach (var line in File.ReadLines("winrates.txt"))
+            {
+                var tuple = line.Split(", ");
+                winrates.Add(tuple[0], Double.Parse(tuple[1]));
+            }
             Dictionary<string, CardInfo> analysis = new Dictionary<string, CardInfo>();
             foreach (var deck in Directory.EnumerateFiles("Decks", "*.ydk", SearchOption.AllDirectories))
             {
@@ -94,8 +100,13 @@ namespace TourneyAnalyser
                     {
                         // Database sometimes out of date or just missing
                         string name = line;
-                        try { name = cardNames[line]; }
-                        catch (Exception e) { }
+                        try
+                        {
+                            name = cardNames[line];
+                        }
+                        catch (Exception e)
+                        {
+                        }
 
                         if (siding)
                             side.Add(name);
@@ -155,13 +166,18 @@ namespace TourneyAnalyser
                     }
                 }
 
-                // Win Rate
-                Console.Write("What was the win rate of {0}: ", deck);
-                double winRate = double.NaN;
-                while (!double.TryParse(Console.ReadLine(), out winRate)) ;
-                List<string> cards = main.Concat(side).ToList();
-                foreach (string card in cards.Distinct())
-                    analysis[card].UpdateWinRate(winRate);
+
+
+                double winRate = 0;
+                if (winrates.TryGetValue(deck, out winRate)){
+                    List<string> cards = main.Concat(side).ToList(); 
+                    foreach (string card in cards.Distinct())
+                    analysis[card].UpdateWinRate(winRate); 
+                }
+                else
+                {
+                    Console.WriteLine("No winrate found for: " + deck);
+                }
 
             }
 
