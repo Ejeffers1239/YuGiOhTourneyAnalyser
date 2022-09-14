@@ -1,0 +1,15 @@
+{
+  "name": "gefahr_analyzer",
+  "version": "1.0.0",
+  "description": "a stats tool for gefahr",
+  "main": "gefahr_analyzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erika 'Ejeffers1239' <superejeffers@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^107.0.0",
+    "yrp": "^1.3.1"
+  }
+}
