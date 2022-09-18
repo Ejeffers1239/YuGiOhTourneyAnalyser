@@ -1,35 +1,42 @@
 'use strict';
+let yrp = require('yrp');
+const {google} = require('googleapis');
+let fs = require('fs');
+const {file} = require("googleapis/build/src/apis/file");
+
 let winners,
 	losers,
 	WR,
 	winName,
 	lossName;
-let apiKey = 'AIzaSyAOriFwczjdWKULoZERRJuAaRbgjmScCHo'; //security be damned, I just want this to work easily
+let apiKey = 'AIzaSyBDfV6miuJyT-rMYA1U8_LNThS4U0flqg8'; //security be damned, I just want this to work easily
 
-const {google} = require('googleapis');
+const drive = google.drive({
+	version: 'v3',
+	auth: apiKey,
+	key: apiKey
+});
 
 // Each API may support multiple versions. With this sample, we're getting
 // v3 of the blogger API, and using an API key to authenticate.
-const files = google.drive.file({
-  version: 'v3',
-  auth: 'AIzaSyAOriFwczjdWKULoZERRJuAaRbgjmScCHo'
-});
 
-let params = {
-  fileId: '1MwrqybRq6WSU0JbPQmVyKkqEmaStNrt9'
-};
+async function printFile(fileId) {
+	const res = await drive.files.get({fileId: fileId}, (er, re) => { // Added
+		if (er) {
+			console.log(er);
+			return;
+		}
+		console.log(re.data.name);
+		return re.data.name; // Modified
 
+	});
 
-
-
-
-function init(){
-	// get the blog details
-files.get(params, (err, res) => {
-  if (err) {
-    console.error(err);
-    throw err;
-  }
-  console.log(`The file title is ${res.data.title}`);
-});
 }
+
+
+
+
+	console.log("can I see the console at all?");
+	printFile('1Scvryf6g1Cof2Ao_T58VoykL1z1aJNHW');
+
+
