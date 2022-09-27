@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc264d07-7f13-4e6f-8c82-8b9d6642831e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TourneyAnalyser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourneyAnalyser/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourneyAnalyser/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourneyAnalyser/TourneyAnalyser.csproj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,18 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "16.15.1",
-    "javascript.nodejs.core.library.typings.version": "16.11.59",
-    "last_opened_file_path": "C:/Users/super/Documents/GitHub/YuGiOhTourneyAnalyser",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.15.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.59&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/super/Documents/GitHub/YuGiOhTourneyAnalyser/sheetToDecksAndWR/gefahr_analyzer.js&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\super\Documents\GitHub\YuGiOhTourneyAnalyser\sheetToDecksAndWR" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gefahr_analyzer.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="gefahr_analyzer.js" working-dir="$PROJECT_DIR$/sheetToDecksAndWR">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +64,12 @@
       <option name="presentableId" value="Default" />
       <updated>1663346153788</updated>
       <workItem from="1663346155437" duration="5529000" />
+      <workItem from="1663464225295" duration="3052000" />
+      <workItem from="1663467322626" duration="12192000" />
+      <workItem from="1663479724646" duration="1018000" />
+      <workItem from="1663525904616" duration="2337000" />
+      <workItem from="1663784325469" duration="598000" />
+      <workItem from="1663870875073" duration="2366000" />
     </task>
     <servers />
   </component>
@@ -57,5 +86,32 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/sheetToDecksAndWR/test.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/sheetToDecksAndWR/test.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/sheetToDecksAndWR/test.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

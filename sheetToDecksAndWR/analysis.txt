@@ -1,0 +1,265 @@
+Name¬1¬2¬3¬Total¬Players¬Avg¬1¬2¬3¬Total¬Players¬Avg¬WinRate¬Players¬Total
+Dragunity Remus¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Dragonmaid Ernus¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Chamber Dragonmaid¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Ghost Belle & Haunted Mansion¬1¬1¬0¬3¬2¬1.5¬0¬0¬0¬0¬0¬0¬0.6666666666666667¬2¬3
+Dragonmaid Tidying¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Effect Veiler¬1¬6¬0¬13¬7¬1.8571428571428572¬0¬0¬0¬0¬0¬0¬0.5¬7¬13
+Parlor Dragonmaid¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Infinite Impermanence¬0¬9¬0¬18¬9¬2¬0¬0¬0¬0¬0¬0¬0.5185185185185185¬9¬18
+Dragonmaid Hospitality¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Defrag Dragon¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+D.D. Crow¬0¬3¬0¬6¬3¬2¬0¬1¬0¬2¬1¬2¬0.6666666666666667¬4¬8
+Pot of Prosperity¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Kitchen Dragonmaid¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+Nurse Dragonmaid¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dragonmaid Changeover¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dragonmaid Lorpar¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Ghost Ogre & Snow Rabbit¬0¬2¬0¬4¬2¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666667¬2¬4
+Mist Valley Baby Roc¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dragon Ravine¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dragunity Legatus¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dragonmaid Sheou¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+House Dragonmaid¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Crystal Wing Synchro Dragon¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.8333333333333333¬2¬2
+Dragunity Knight - Gae Dearg¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Borrelsword Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dharc the Dark Charmer, Gloomy¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Wynn the Wind Charmer, Verdant¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Aussa the Earth Charmer, Immovable¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Dragunity Knight - Romulus¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Hieratic Seal of the Heavenly Spheres¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Therion Cross¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Loptr, Shadow of the Generaider Bosses¬0¬0¬2¬6¬2¬3¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬6
+Generaider Boss Stage¬0¬0¬2¬6¬2¬3¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬6
+Hela, Generaider Boss of Doom¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Harr, Generaider Boss of Storms¬1¬1¬0¬3¬2¬1.5¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬3
+Condemned Witch¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Generaider Boss Fight¬0¬1¬1¬5¬2¬2.5¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬5
+Lonefire Blossom¬0¬0¬2¬6¬2¬3¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬6
+Metaverse¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Generaider Boss Quest¬0¬0¬2¬6¬2¬3¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬6
+Nidhogg, Generaider Boss of Ice¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Utgarda, Generaider Boss of Delusion¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Endless Engine Argyro System¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Dovelgus, Generaider Boss of Iron¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Therion "Reaper" Fum¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Therion Discolosseum¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Forbidden Chalice¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Mardel, Generaider Boss of Light¬1¬1¬0¬3¬2¬1.5¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬3
+Therion "Lily" Borea¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Terraforming¬3¬0¬0¬3¬3¬1¬0¬0¬0¬0¬0¬0¬0.22222222222222224¬3¬3
+Jormungandr, Generaider Boss of Eternity¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Infinitrack Earth Slicer¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Phantom Fortress Enterblathnir¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Sacred Tree Beast, Hyperyton¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Nine-Lives Cat¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Knightmare Phoenix¬3¬2¬0¬7¬5¬1.4¬0¬0¬0¬0¬0¬0¬0.5¬5¬7
+Knightmare Cerberus¬3¬1¬0¬5¬4¬1.25¬0¬0¬0¬0¬0¬0¬0.45833333333333337¬4¬5
+Codebreaker Virus Swordsman¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Unchained Abomination¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.16666666666666669¬2¬2
+Shadow Vampire¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+One for One¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Domination¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire Ghost¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire Kingdom¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Shiranui Solitaire¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire Retainer¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire Grace¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Duke¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire's Domain¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire Grimson¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire's Desire¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Mezuki¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Gozuki¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Scarlet Scourge¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Familiar¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Uni-Zombie¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vampire Takeover¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Voivode¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Sorcerer¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Fraulein¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Foolish Burial¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.5833333333333333¬2¬2
+PSY-Framelord Omega¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.3333333333333333¬2¬2
+Immortal Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+The Zombie Vampire¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Photon Strike Bounzer¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Dhampir Vampire Sheridan¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Crimson Knight Vampire Bram¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Borreload Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Yuki-Onna, the Absolute Zero Mayakashi¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Topologic Trisbaena¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.5¬2¬2
+Vampire Fascinator¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Vampire Sucker¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Salamangreat Almiraj¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.5¬2¬2
+World Legacy Succession¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Macro Cosmos¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Girsu, the Orcust Mekk-Knight¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+World Legacy Awakens¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+World Legacy - "World Armor"¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+World Legacy Monstrosity¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Solemn Judgment¬2¬0¬0¬2¬2¬1¬1¬0¬0¬1¬1¬1¬0.6111111111111112¬3¬3
+Lib the World Key Blademaster¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Five-Headed Link Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Black Luster Soldier - Soldier of Chaos¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Prank-Kids Rocksies¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Prank-Kids Place¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Prank-Kids Plan¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Aleister the Invoker¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Triple Tactics Talent¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Prank-Kids Dropsies¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Raigeki¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬2
+Polymerization¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Prank-Kids Fansies¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Magical Meltdown¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Prank-Kids Lampsies¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬3
+Invocation¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬2
+Prank-Kids Pandemonium¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬2
+Prank-Kids Pranks¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Prank-Kids Battle Butler¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬2
+Invoked Mechaba¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Invoked Purgatrio¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Prank-Kids Rocket Ride¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬2
+Millennium-Eyes Restrict¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Abyss Dweller¬1¬1¬0¬3¬2¬1.5¬0¬0¬0¬0¬0¬0¬0.4166666666666667¬2¬3
+Toadally Awesome¬1¬1¬0¬3¬2¬1.5¬0¬0¬0¬0¬0¬0¬0.6666666666666667¬2¬3
+Prank-Kids Dodo-Doodle-Doo¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬2
+Prank-Kids Bow-Wow-Bark¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Pitknight Earlie¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Secure Gardna¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.33333333333333337¬1¬1
+Ursarctic Megabilis¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Vanguard of the Underground Emperor¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Ursarctic Miktanus¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Skull Meister¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+The Ice-Bound God¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Megapolar¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Radiation¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Departure¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Mikbilis¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Ice Barrier¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Quint Charge¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Megatanus¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Mikpolar¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬3
+Ursarctic Big Dipper¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Ultimaya Tzolkin¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Virtual World Kyubi - Shenshen¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Stellar Wind Wolfrayet¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Ravenous Crocodragon Archethys¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Void Ogre Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Ursarctic Septentrion¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Ursarctic Grand Chariot¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Ursarctic Polari¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬2
+Mermail Abyssgaios¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Number 76: Harmonizer Gradielle¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.6666666666666666¬1¬1
+Number 11: Big Eye¬2¬0¬0¬2¬2¬1¬0¬0¬0¬0¬0¬0¬0.8333333333333333¬2¬2
+Wisdom-Eye Magician¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Chronograph Sorcerer¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0¬1¬2
+Performapal Ladyange¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Duelist Alliance¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Performapal Pendulum Sorcerer¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Time Pendulumgraph¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Timegazer Magician¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Astrograph Sorcerer¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Performapal Monkeyboard¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Zoroa, the Magistus of Flame¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Purple Poison Magician¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Double Iris Magician¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Star Pendulumgraph¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Harmonizing Magician¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0¬1¬2
+Magistus Invocation¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Oafdragon Magician¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0¬1¬2
+Rilliona, the Magistus of Verre¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Wavering Eyes¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Pendulum Call¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Endymion, the Magistus of Mastery¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Performapal Skullcrobat Joker¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0¬1¬3
+Luster Pendulum, the Dracoslayer¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Artifact Moralltach¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Performapal Lizardraw¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Aiwass, the Magistus Spell Spirit¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Draco Berserker of the Tenyi¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Zoroa, the Magistus Conflagrant Calamity¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Ignister Prominence, the Blasting Dracoslayer¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Cyber Slash Harpie Lady¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Vahram, the Magistus Divinity Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Number 41: Bagooska the Terribly Tired Tapir¬1¬2¬0¬5¬3¬1.6666666666666667¬0¬0¬0¬0¬0¬0¬0.5¬3¬5
+Tornado Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Evilswarm Exciton Knight¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Ninaruru, the Magistus Glass Goddess¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Rilliona, the Wondrous Magistus Witch Wardrobe¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Evilswarm Nightmare¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Artifact Dagda¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Artemis, the Magistus Moon Maiden¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0¬1¬1
+Ancient Warriors - Rebellious Lu Feng¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+Ancient Warriors - Valiant Zhang De¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Ancient Warriors - Loyal Guan Yun¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Ancient Warriors - Fearsome Zhang Yuan¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Ancient Warriors - Masterful Sun Mou¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Ancient Warriors - Virtuous Liu Xuan¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+Ancient Warriors - Ingenious Zhuge Kong¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+Ancient Warriors - Savage Don Ying¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Ancient Warriors Saga - Deception and Betrayal¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Ancient Warriors Saga - Three Visits¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Fire Formation - Tenki¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+Pot of Extravagance¬0¬0¬2¬6¬2¬3¬0¬0¬0¬0¬0¬0¬0.75¬2¬6
+Small World¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Alpha, the Master of Beasts¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Gameciel, the Sea Turtle Kaiju¬0¬0¬1¬3¬1¬3¬0¬0¬1¬3¬1¬3¬0.75¬2¬6
+Harpie's Feather Duster¬1¬0¬0¬1¬1¬1¬1¬0¬0¬1¬1¬1¬0.75¬2¬2
+Ancient Warriors Oath - Double Dragon Lords¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬1¬1¬3
+Bahamut Shark¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬1¬1¬1
+Brotherhood of the Fire Fist - Tiger King¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬1¬1¬2
+Cosmic Cyclone¬0¬0¬1¬3¬1¬3¬0¬0¬1¬3¬1¬3¬0.75¬2¬6
+PSY-Frame Driver¬0¬0¬0¬0¬0¬0¬1¬0¬0¬1¬1¬1¬1¬1¬1
+PSY-Framegear Gamma¬0¬0¬0¬0¬0¬0¬0¬0¬1¬3¬1¬3¬1¬1¬3
+Solemn Strike¬0¬0¬1¬3¬1¬3¬0¬0¬1¬3¬1¬3¬0.75¬2¬6
+Twin Twisters¬0¬1¬0¬2¬1¬2¬0¬1¬1¬5¬2¬2.5¬0.6666666666666666¬3¬7
+Parallel eXceed¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Traptrix Dionaea¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Traptrix Myrmeleo¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Traptrix Mantis¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Traptrix Vesiculo¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Time-Space Trap Hole¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Storming Mirror Force¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Bottomless Trap Hole¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Traptrix Trap Hole Nightmare¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Gravedigger's Trap Hole¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Torrential Tribute¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Compulsory Evacuation Device¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+The Phantom Knights of Shade Brigandine¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Time Thief Redoer¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Traptrix Allomerus¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Traptrix Rafflesia¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Traptrix Cularia¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Traptrix Sera¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Gadarla, the Mystery Dust Kaiju¬0¬0¬0¬0¬0¬0¬0¬0¬1¬3¬1¬3¬0.5¬1¬3
+Change of Heart¬0¬0¬0¬0¬0¬0¬1¬0¬0¬1¬1¬1¬0.5¬1¬1
+Dark Ruler No More¬1¬0¬0¬1¬1¬1¬1¬0¬0¬1¬1¬1¬0.5¬2¬2
+Interrupted Kaiju Slumber¬0¬0¬0¬0¬0¬0¬0¬1¬0¬2¬1¬2¬0.5¬1¬2
+Evenly Matched¬0¬0¬0¬0¬0¬0¬1¬0¬0¬1¬1¬1¬0.5¬1¬1
+Chaos Valkyria¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Danger! Mothman!¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Chaos Space¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Wulf, Lightsworn Beast¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Judgment Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Solar Recharge¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Plaguespreader Zombie¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Lumina, Twilightsworn Shaman¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Destiny HERO - Malicious¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Charge of the Light Brigade¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Hey, Trunade!¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Lumina, Lightsworn Summoner¬0¬0¬1¬3¬1¬3¬0¬0¬0¬0¬0¬0¬0.5¬1¬3
+Felis, Lightsworn Archer¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Monster Reborn¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Celestia, Lightsworn Angel¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Stardust Spark Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Michael, the Arch-Lightsworn¬0¬1¬0¬2¬1¬2¬0¬0¬0¬0¬0¬0¬0.5¬1¬2
+Black Rose Dragon¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Arcanite Magician¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Brionac, Dragon of the Ice Barrier¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+T.G. Wonder Magician¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Number 101: Silent Honor ARK¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Number 106: Giant Hand¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Minerva, the Exalted Lightsworn¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Number 75: Bamboozling Gossip Shadow¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1
+Curious, the Lightsworn Dominion¬1¬0¬0¬1¬1¬1¬0¬0¬0¬0¬0¬0¬0.5¬1¬1

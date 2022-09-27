@@ -5,16 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff3d45f0-ae4d-4e20-842c-82b6dae75ea4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TourneyAnalyser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourneyAnalyser/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourneyAnalyser/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourneyAnalyser/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/198a6261cebc324728dcc4c178edc5f2894123f711722c80e8557cbfd27651/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d9d9faea5e6ed6438a777ef8c6eed41261f81d8e86488ed923ad92564f54e/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectId" id="2E8ZcWBy4EKAWzQLOS3l5A6Bg0l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,9 +44,9 @@
 }</component>
   <component name="RunManager">
     <configuration name="TourneyAnalyser" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TourneyAnalyser/bin/Debug/net6.0/TourneyAnalyser.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TourneyAnalyser" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -42,9 +54,9 @@
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/TourneyAnalyser/TourneyAnalyser.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="0" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -60,6 +72,13 @@
       <updated>1661979253688</updated>
       <workItem from="1661979274778" duration="1458000" />
       <workItem from="1663097483083" duration="622000" />
+      <workItem from="1663466774893" duration="1789000" />
+      <workItem from="1663528816134" duration="1189000" />
+      <workItem from="1663872240958" duration="3098000" />
+      <workItem from="1664290927000" duration="65000" />
+      <workItem from="1664291086427" duration="55000" />
+      <workItem from="1664291154114" duration="1521000" />
+      <workItem from="1664293934998" duration="715000" />
     </task>
     <servers />
   </component>

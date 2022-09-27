@@ -12,9 +12,12 @@ namespace TourneyAnalyser
 
         private List<double> winRates;
 
-        public void UpdateWinRate(double winRateInc)
+        public void UpdateWinRate(double winRateInc, int games)
         {
-            winRates.Add(winRateInc);
+            for (int i = 0; i < games; i++)
+            {
+                winRates.Add(winRateInc);
+            }
         }
 
         public string name { get; set; }
@@ -79,11 +82,17 @@ namespace TourneyAnalyser
             }
 
             // Analyse card counts in decks
-            Dictionary<string, double> winrates = new Dictionary<string, double>();
+            Dictionary<string, double[]> winrates = new Dictionary<string, double[]>();
             foreach (var line in File.ReadLines("winrates.txt"))
             {
-                var tuple = line.Split(", ");
-                winrates.Add(tuple[0], Double.Parse(tuple[1]));
+                var tuple = line.Split(",");
+                if(!winrates.ContainsKey(tuple[0]))
+                {
+                    double[] dub = new double[2];
+                    dub[0] = Double.Parse(tuple[1]);
+                    dub[1] = int.Parse(tuple[2]);
+                    winrates.Add(tuple[0], dub);
+                }
             }
             Dictionary<string, CardInfo> analysis = new Dictionary<string, CardInfo>();
             foreach (var deck in Directory.EnumerateFiles("Decks", "*.ydk", SearchOption.AllDirectories))
@@ -169,22 +178,32 @@ namespace TourneyAnalyser
 
 
                 double winRate = 0;
-                if (winrates.TryGetValue(deck, out winRate)){
-                    List<string> cards = main.Concat(side).ToList(); 
-                    foreach (string card in cards.Distinct())
-                    analysis[card].UpdateWinRate(winRate); 
+                double[] dub;
+                int games = 0;
+                if (winrates.TryGetValue(deck.Split('\\')[1], out dub))
+                {
+                    winRate = dub[0];
+                    games = (int)dub[1];
                 }
                 else
                 {
-                    Console.WriteLine("No winrate found for: " + deck);
+                    Console.WriteLine("No winrate found for: " + deck + " Manual option: \n");
+                    double.TryParse(Console.ReadLine(), out winRate);
                 }
-
+                List<string> cards = main.Concat(side).ToList();
+                foreach (string card in cards.Distinct())
+                {
+                    analysis[card].UpdateWinRate(winRate, games);
+                }
             }
 
             StringBuilder sb = new StringBuilder();
             sb.Append("Name¬1¬2¬3¬Total¬Players¬Avg¬1¬2¬3¬Total¬Players¬Avg¬WinRate¬Players¬Total\n");
             foreach (CardInfo card in analysis.Values)
-                sb.Append(card.ToString());
+            {
+                sb.Append(card);
+            }
+
             File.WriteAllText("analysis.txt", sb.ToString());
         }
     }

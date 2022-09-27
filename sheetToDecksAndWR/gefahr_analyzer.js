@@ -3,13 +3,15 @@ let yrp = require('yrp');
 const {google} = require('googleapis');
 let fs = require('fs');
 const {file} = require("googleapis/build/src/apis/file");
-
-let winners,
-	losers,
-	WR,
-	winName,
-	lossName;
+const {parse} = require("csv-parse")
 let apiKey = 'AIzaSyBDfV6miuJyT-rMYA1U8_LNThS4U0flqg8'; //security be damned, I just want this to work easily
+let winrates = '';
+
+function sleep(ms) {
+	return new Promise((resolve) => {
+		setTimeout(resolve, ms);
+	});
+}
 
 const drive = google.drive({
 	version: 'v3',
@@ -17,26 +19,61 @@ const drive = google.drive({
 	key: apiKey
 });
 
-// Each API may support multiple versions. With this sample, we're getting
-// v3 of the blogger API, and using an API key to authenticate.
+async function main() {
+	fs.createReadStream("sheet.csv").pipe(parse({delimiter: ","}))
+		.on("data", async function (row) {
+			let wins = parseInt(row[4]);
+			let losses = parseInt(row [5]);
+			let games = wins + losses;
+			let wr = wins/(wins + losses)
+			let lr = 1-wr;
+			let winURL = '';
+			let lossURL = '';
+			winURL = row[13];
+			lossURL = row[14];
+			let winID = winURL.split("=")[1];
+			let lossID = lossURL.split("=")[1]
+				//await printFile(fileID);
+				//winrates += deckname + "," + wr +"\n";
+				await drive.files.get({fileId: winID}, async(er, re) => { // Added
+					if (er) {
+						console.log(er);
+						return;
+					}
+					fs.appendFile("winrates.txt", re.data.name + "," + wr + "," + games + "\n", (er, re) => { // Added
+						if (er) {
+							console.log(er);
+							return;
+						}
+					});
+					await drive.files.get({fileId: lossID}, async(er, re) => { // Added
+						if (er) {
+							console.log(er);
+							return;
+						}
+						fs.appendFile("winrates.txt", re.data.name + "," + lr + "," + games + "\n", (er, re) => { // Added
+							if (er) {
+								console.log(er);
+								return;
+							}
+						});
+				});
+			});
+		})
+		.on("error", function (error) {
+			console.log(error.message);
+		})
+		.on("end", async function () {
+			console.log(winrates);
+			/*await fs.writeFile("winrates.txt", winrates,(er, re) => { // Added
+				if (er) {
+					console.log(er);
+					return;
+				}
+			});
 
-async function printFile(fileId) {
-	const res = await drive.files.get({fileId: fileId}, (er, re) => { // Added
-		if (er) {
-			console.log(er);
-			return;
-		}
-		console.log(re.data.name);
-		return re.data.name; // Modified
+			 */
 
-	});
-
+		});
 }
-
-
-
-
-	console.log("can I see the console at all?");
-	printFile('1Scvryf6g1Cof2Ao_T58VoykL1z1aJNHW');
-
-
+main();
