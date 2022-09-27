@@ -187,8 +187,10 @@ namespace TourneyAnalyser
                 }
                 else
                 {
-                    Console.WriteLine("No winrate found for: " + deck + " Manual option: \n");
+                    Console.WriteLine("No winrate found for: " + deck + " Manual option: \n" + "WR: ");
                     double.TryParse(Console.ReadLine(), out winRate);
+                    Console.WriteLine("\nGames: ");
+                    int.TryParse(Console.ReadLine(), out games);
                 }
                 List<string> cards = main.Concat(side).ToList();
                 foreach (string card in cards.Distinct())
