@@ -29,8 +29,8 @@ async function main() {
 			let lr = 1-wr;
 			let winURL = '';
 			let lossURL = '';
-			winURL = row[13];
-			lossURL = row[14];
+			winURL = row[7];
+			lossURL = row[8];
 			let winID = winURL.split("=")[1];
 			let lossID = lossURL.split("=")[1]
 				//await printFile(fileID);
