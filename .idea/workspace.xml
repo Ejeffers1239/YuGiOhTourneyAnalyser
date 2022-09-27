@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="dc264d07-7f13-4e6f-8c82-8b9d6642831e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TourneyAnalyser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourneyAnalyser/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourneyAnalyser/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourneyAnalyser/TourneyAnalyser.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/2022-09-13 14-43-07 - Ejeffers1239.yrpX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/Decks/Submit the loser's YDK file (Obtainable via the _replay_ tab in EdoPro, if not just asking) (File responses)-20220922T184206Z-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/Decks/Submit the winner's YDK file (File responses)-20220922T184152Z-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/analysis.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/sheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sheetToDecksAndWR/sheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheetToDecksAndWR/winrates.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
       <workItem from="1663525904616" duration="2337000" />
       <workItem from="1663784325469" duration="598000" />
       <workItem from="1663870875073" duration="2366000" />
+      <workItem from="1664311207424" duration="328000" />
     </task>
     <servers />
   </component>
@@ -108,7 +110,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/sheetToDecksAndWR/gefahr_analyzer.js</url>
           <line>24</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
