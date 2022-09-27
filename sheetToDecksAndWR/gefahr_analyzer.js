@@ -4,7 +4,7 @@ const {google} = require('googleapis');
 let fs = require('fs');
 const {file} = require("googleapis/build/src/apis/file");
 const {parse} = require("csv-parse")
-let apiKey = 'AIzaSyBDfV6miuJyT-rMYA1U8_LNThS4U0flqg8'; //security be damned, I just want this to work easily
+let apiKey = 'AIzaSyBDfV6miuJyT-rMYA1U8_LNThS4U0flqg8'; //REPLACE WITH YOUR OWN
 let winrates = '';
 
 function sleep(ms) {

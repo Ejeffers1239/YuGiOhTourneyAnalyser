@@ -371,3 +371,9 @@ FodyWeavers.xsd
 *.txt
 
 TourneyAnalyser/cardinfo.php.json
+*.zip
+*.csv
+sheetToDecksAndWR/winrates.txt
+sheetToDecksAndWR/analysis.txt
+sheetToDecksAndWR/analysis.txt
+sheetToDecksAndWR/winrates.txt
