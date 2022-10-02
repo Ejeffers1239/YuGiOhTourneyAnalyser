@@ -3,6 +3,10 @@ and processes it to a list of card winrates
 
 HOW TO USE:
 
+-1.
+npm -i yrp
+npm -i googleapis
+npm -i csv-parse
 0.
 Go to sheetToDecksAndWR/gefahr_analyzer.js, and replace
 the API key on line 7 with your own from:

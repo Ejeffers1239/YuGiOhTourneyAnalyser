@@ -23,7 +23,7 @@ async function main() {
 	fs.createReadStream("sheet.csv").pipe(parse({delimiter: ","}))
 		.on("data", async function (row) {
 			let wins = parseInt(row[4]);
-			let losses = parseInt(row [5]);
+			let losses = parseInt(row[5]);
 			let games = wins + losses;
 			let wr = wins/(wins + losses)
 			let lr = 1-wr;

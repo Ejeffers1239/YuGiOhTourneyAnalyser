@@ -379,3 +379,8 @@ sheetToDecksAndWR/analysis.txt
 sheetToDecksAndWR/winrates.txt
 .idea/
 
+*.xml
+*.ydk
+*.csv
+*.json
+*.xml
