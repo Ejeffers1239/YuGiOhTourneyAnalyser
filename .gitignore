@@ -384,3 +384,5 @@ sheetToDecksAndWR/winrates.txt
 *.csv
 *.json
 *.xml
+.idea/workspace.xml
+*.xml
