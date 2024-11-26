@@ -4,7 +4,8 @@ const {google} = require('googleapis');
 let fs = require('fs');
 const {file} = require("googleapis/build/src/apis/file");
 const {parse} = require("csv-parse")
-let apiKey = 'AIzaSyBDfV6miuJyT-rMYA1U8_LNThS4U0flqg8'; //REPLACE WITH YOUR OWN
+
+let apiKey = ""; //Insert API Key here
 let winrates = '';
 
 function sleep(ms) {
@@ -33,6 +34,7 @@ async function main() {
 			lossURL = row[8];
 			let winID = winURL.split("=")[1];
 			let lossID = lossURL.split("=")[1]
+			
 				//await printFile(fileID);
 				//winrates += deckname + "," + wr +"\n";
 				await drive.files.get({fileId: winID}, async(er, re) => { // Added
@@ -46,7 +48,21 @@ async function main() {
 							return;
 						}
 					});
-					await drive.files.get({fileId: lossID}, async(er, re) => { // Added
+					await drive.files.get({fileId: winID, alt: "media"}, async(er, rere) =>{
+						if (er) {
+							console.log(er);
+							return;
+						}
+						fs.writeFile("../TourneyAnalyser/Decks/" + re.data.name, rere.data, err => {
+							if (err) {
+							  console.error(err);
+							} else {
+							  // file written successfully
+							}
+						  });
+					});
+				});
+				await drive.files.get({fileId: lossID}, async(er, re) => { // Added
 						if (er) {
 							console.log(er);
 							return;
@@ -57,8 +73,20 @@ async function main() {
 								return;
 							}
 						});
+						await drive.files.get({fileId: winID, alt: "media"}, async(er, rere) =>{
+							if (er) {
+								console.log(er);
+								return;
+							}
+							fs.writeFile("../TourneyAnalyser/Decks/" + re.data.name, rere.data, err => {
+								if (err) {
+								  console.error(err);
+								} else {
+								  // file written successfully
+								}
+							  });
+						});
 				});
-			});
 		})
 		.on("error", function (error) {
 			console.log(error.message);

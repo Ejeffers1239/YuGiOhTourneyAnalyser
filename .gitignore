@@ -386,3 +386,6 @@ sheetToDecksAndWR/winrates.txt
 *.xml
 .idea/workspace.xml
 *.xml
+.idea/workspace.xml
+sheetToDecksAndWR/sheet.csv
+TourneyAnalyser/currentversion.php.json
