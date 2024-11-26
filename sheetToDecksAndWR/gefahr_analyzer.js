@@ -32,6 +32,8 @@ async function main() {
 			let lossURL = '';
 			winURL = row[7];
 			lossURL = row[8];
+			console.log(winURL);
+			console.log(lossURL);
 			let winID = winURL.split("=")[1];
 			let lossID = lossURL.split("=")[1]
 			
@@ -73,7 +75,7 @@ async function main() {
 								return;
 							}
 						});
-						await drive.files.get({fileId: winID, alt: "media"}, async(er, rere) =>{
+						await drive.files.get({fileId: lossID, alt: "media"}, async(er, rere) =>{
 							if (er) {
 								console.log(er);
 								return;
